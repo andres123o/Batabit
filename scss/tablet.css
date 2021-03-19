@@ -1,0 +1,10 @@
+.main-tables-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-commissions-table {
+    width: 230px;
+    margin: 0;
+}
